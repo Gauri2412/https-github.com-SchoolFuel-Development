@@ -1,1 +1,1 @@
-# https-github.com-SchoolFuel-Development
+# AWS Lambda Attendance Evaluation - SchoolFuel Development
